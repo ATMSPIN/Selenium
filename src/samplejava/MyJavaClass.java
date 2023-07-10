@@ -15,7 +15,7 @@ public class MyJavaClass {
 		
 		driver.manage().window().maximize();
 		driver.get("https://github.com/login");
-		Thread.sleep(4000);
+		Thread.sleep(6000);
 		
 	}
 }
